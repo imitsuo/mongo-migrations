@@ -1,0 +1,8 @@
+[mongo]
+url = mongodb://localhost:27017/admin
+database=test-migrations
+migrations=migrations
+metastore=database_migrations
+username=user
+password=pwd
+dry_run=false
